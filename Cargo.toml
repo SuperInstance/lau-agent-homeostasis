@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Agent homeostasis — self-regulating mechanisms that keep an agent alive and balanced"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-agent-homeostasis"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }

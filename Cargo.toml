@@ -1,0 +1,10 @@
+[package]
+name = "lau-agent-homeostasis"
+version = "0.1.0"
+edition = "2021"
+description = "Agent homeostasis — self-regulating mechanisms that keep an agent alive and balanced"
+license = "MIT"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
